@@ -1,2 +1,2 @@
 # DApp
-Dapp base on Dim-G
+Dapp base on Dimension-G
