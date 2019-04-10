@@ -1,5 +1,5 @@
 # DApp
-Dapp base on Dimension-G
+DApp based on Dimension
 
 # Framework
 
