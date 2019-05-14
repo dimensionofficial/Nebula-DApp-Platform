@@ -1,6 +1,12 @@
 # DApp
 DApp platform for Dimension
 
+# DApp List
+
+MagicPixel DApp
+http://magicpixel.dimensionchain.io/
+
+
 # Framework
 
 - Core_plugin support
@@ -10,5 +16,4 @@ DApp platform for Dimension
 
 Dimension Development Team will continue to update.
 
-MagicPixel DApp
-http://magicpixel.dimensionchain.io/
+
