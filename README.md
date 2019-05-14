@@ -1,5 +1,5 @@
 # DApp
-DApp based on Dimension
+DApp platform for Dimension
 
 # Framework
 
@@ -9,3 +9,6 @@ DApp based on Dimension
 # Other 
 
 Dimension Development Team will continue to update.
+
+MagicPixel DApp
+http://magicpixel.dimensionchain.io/
