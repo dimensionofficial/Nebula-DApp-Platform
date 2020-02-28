@@ -15,7 +15,7 @@ module.exports = {
     'flowtype',
     'prettier'
   ],
-  // add your custom rules here
+  // add your custom rules here.
   'rules': {
     "class-methods-use-this": 0,
     // allow debugger during development
