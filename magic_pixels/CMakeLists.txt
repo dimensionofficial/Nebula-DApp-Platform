@@ -8,3 +8,4 @@ target_include_directories( pixel_plugin PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/incl
 ${CMAKE_CURRENT_SOURCE_DIR}/../chain_interface/include  
 ${CMAKE_CURRENT_SOURCE_DIR}/../../libraries/appbase/include
 ${CMAKE_CURRENT_SOURCE_DIR}/../plugin_lib/include)
+## see dimensionchain.io
