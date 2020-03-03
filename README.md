@@ -6,6 +6,11 @@ DApp platform for Dimension
 MagicPixel DApp
 http://magicpixel.dimensionchain.io/
 
+![MagicPixel](https://github.com/dimensionofficial/Nebula-DApp-Platform/blob/master/Pic/MagicPixel.png)
+
+MeetWorld DApp
+
+![MeetWorld](https://github.com/dimensionofficial/Nebula-DApp-Platform/blob/master/Pic/MeetWorld.png)
 
 # Framework
 
